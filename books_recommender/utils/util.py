@@ -1,5 +1,5 @@
-import yaml
 import sys
+import yaml
 from books_recommender.exception.exception_handler import AppException
 
 
